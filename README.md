@@ -1,5 +1,5 @@
 # Discrimination of benign and malignant solid breast masses using deep residual learning-based bimodal computer-aided diagnosis system
-By Zahra Assari[^1], Ali Mahloojifar, and Nasrin Ahmadinejad.
+By Zahra Assari, Ali Mahloojifar, and Nasrin Ahmadinejad.
 
 [https://doi.org/10.1016/j.bspc.2021.103453](https://doi.org/10.1016/j.bspc.2021.103453)
 
@@ -32,5 +32,3 @@ One of the most common breast cancer mammographic manifestation is solid mass. I
 
 ### Keywords:
 `Solid breast mass`, `Mammography`, `Ultrasound imaging`, `Bimodal computer-aided diagnosis system`, `Deep learning`, `Residual learning`.
-
-[^1]: E-mail address: ZahraAssari.bme@gmail.com.
